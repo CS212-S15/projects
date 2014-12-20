@@ -1,6 +1,8 @@
 Project 1 - Inverted Index
 ==========================
 
+*tentative and subject to change*
+
 For this project, you will write a Java program that recursively processes all text files in a directory and builds an inverted index to store a mapping from words to the documents (and positions within those documents) where the words were found. For example, suppose we have the following two documents:
 
 ```
