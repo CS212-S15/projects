@@ -3,6 +3,7 @@ Project 1 - Inverted Index
 
 *tentative and subject to change*
 
+
 For this project, you will write a Java program that recursively processes all text files in a directory and builds an inverted index to store a mapping from words to the documents (and positions within those documents) where the words were found. For example, suppose we have the following two documents:
 
 ```
@@ -29,6 +30,11 @@ bird
 ran
 "catstory.txt", 3
 ```
+
+##Getting Started##
+An initial project that contains all of the classes and methods you must implement for this assignment, as well as all of the test cases you must pass, is available in your Github repository named `<username>-project`. 
+
+Make sure to follow these instructions to clone your initial repository and load the project into Eclipse: [Github instructions](https://github.com/CS212-S15/lectures/blob/master/Notes/githubinstructions.md)
 
 ##Requirements##
 
@@ -76,6 +82,4 @@ The word is listed alone on a single line, followed by lines with the relative f
 6. Your main class must be named `Driver`.
 
 ##Submission##
-
-TBD
-
+Follow these instructions *carefully* in order to submit your project: [Project Guidelines](https://github.com/CS212-S15/lectures/blob/master/Notes/projectguidelines.md)
