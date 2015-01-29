@@ -1,0 +1,142 @@
+1
+"input/simple/digits.txt", 1
+
+123
+"input/simple/digits.txt", 4
+
+123a
+"input/simple/digits.txt", 6
+
+2
+"input/simple/digits.txt", 2
+
+3
+"input/simple/digits.txt", 3
+
+a
+"input/simple/symbols.txt", 4
+
+a123
+"input/simple/digits.txt", 5
+
+aardvark
+"input/simple/capital_extension.TXT", 1
+
+alpaca
+"input/simple/a/b/c/d/subdir.txt", 1
+
+an
+"input/simple/symbols.txt", 2, 15, 19
+
+ante
+"input/simple/symbols.txt", 13, 22
+
+antelope
+"input/simple/symbols.txt", 1, 12, 24
+
+e
+"input/simple/symbols.txt", 7, 11
+
+eight
+"input/simple/position.txt", 8
+
+eighteen
+"input/simple/position.txt", 18
+
+elephant
+"input/simple/capitals.txt", 1, 2, 3, 4
+
+eleven
+"input/simple/position.txt", 11
+
+fifteen
+"input/simple/position.txt", 15
+
+five
+"input/simple/position.txt", 5
+
+four
+"input/simple/position.txt", 4
+
+fourteen
+"input/simple/position.txt", 14
+
+l
+"input/simple/symbols.txt", 8
+
+lo
+"input/simple/symbols.txt", 17
+
+lop2e
+"input/simple/symbols.txt", 23
+
+lope
+"input/simple/symbols.txt", 14
+
+n
+"input/simple/symbols.txt", 5
+
+nine
+"input/simple/position.txt", 9
+
+nineteen
+"input/simple/position.txt", 19
+
+o
+"input/simple/symbols.txt", 9
+
+one
+"input/simple/position.txt", 1
+
+ope
+"input/simple/symbols.txt", 21
+
+p
+"input/simple/symbols.txt", 10
+
+pe
+"input/simple/symbols.txt", 18
+
+seven
+"input/simple/position.txt", 7
+
+seventeen
+"input/simple/position.txt", 17
+
+six
+"input/simple/position.txt", 6
+
+sixteen
+"input/simple/position.txt", 16
+
+t
+"input/simple/symbols.txt", 6
+
+te
+"input/simple/symbols.txt", 16
+
+tel
+"input/simple/symbols.txt", 20
+
+telope
+"input/simple/symbols.txt", 3
+
+ten
+"input/simple/position.txt", 10
+
+thirteen
+"input/simple/position.txt", 13
+
+three
+"input/simple/position.txt", 3
+
+twelve
+"input/simple/position.txt", 12
+
+twenty
+"input/simple/position.txt", 20
+
+two
+"input/simple/position.txt", 2
+
+

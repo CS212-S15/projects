@@ -1,0 +1,5 @@
+{
+	"inputPath": "input/gutenberg",
+	"outputPath": "output/result.txt",
+	"digitDelimiter": false
+}

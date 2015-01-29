@@ -1,0 +1,5 @@
+{
+	"inputPath": "input/rfcs",
+	"outputPath": "output/result.txt",
+	"digitDelimiter": true
+}
