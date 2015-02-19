@@ -1,0 +1,5 @@
+{
+	"inputPath": "input/simple",
+	"digitDelimiter": true,
+	"searchPath": "queries/simple.txt",
+}

@@ -1,0 +1,14 @@
+two
+input/simple/position.txt
+
+chickadee
+
+aa
+
+t
+input/simple/symbols.txt
+
+elephant antelope
+input/simple/capitals.txt
+input/simple/symbols.txt
+

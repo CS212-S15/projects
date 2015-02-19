@@ -1,0 +1,7 @@
+{
+	"inputPath": "input/",
+	"digitDelimiter": false,
+	"searchPath": "queries/alphabet.txt",
+	"searchOutputPath": "output/searchresults.txt",
+
+}

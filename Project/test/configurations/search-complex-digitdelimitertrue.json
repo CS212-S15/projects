@@ -1,0 +1,7 @@
+{
+	"inputPath": "input/",
+	"digitDelimiter": true,
+	"searchPath": "queries/complex.txt",
+	"searchOutputPath": "output/searchresults.txt"
+
+}

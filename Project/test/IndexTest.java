@@ -15,33 +15,15 @@ import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
 @SuiteClasses({
-    IndexTest.IndexArgumentTest.class,
+    IndexTest.IndexConfigurationTest.class,
     IndexTest.IndexOutputTest.class
 })
 public class IndexTest {
 
     /** Configure this on your system if you want to have a longer timeout. */
     public static final int TIMEOUT = 60000;
-
-    public static final String[] DEFAULT_ARGS = {};
-    public static final String DEFAULT_CONFIG_DESTINATION = "config.json";
     
-    /**
-     * Helper method to copy a configuration file to the appropriate location.
-     * @param configFile
-     * @param destination
-     */
-    public static void copyConfigFile(String configFile, String destination) throws IOException {
-		
-    	Path configPath = Paths.get(configFile);
-    	Path destinationPath = Paths.get(destination);
-
-    	Files.copy(configPath, destinationPath, REPLACE_EXISTING);
-
-    }
-
-    
-    public static class IndexArgumentTest {
+    public static class IndexConfigurationTest {
     	
         @Test(timeout = TIMEOUT)
         public void testBadInputPathKey() {
@@ -49,13 +31,13 @@ public class IndexTest {
         	String configFile = "test/configurations/badinputpathkey.json";
     		
         	try {
-        		copyConfigFile(configFile, DEFAULT_CONFIG_DESTINATION);
+        		ProjectTest.copyConfigFile(configFile, ProjectTest.DEFAULT_CONFIG_DESTINATION);
         	} catch(IOException ioe) {
         		fail("Failed to copy configuration to correct location.");
         	}
         
         	
-            ProjectTest.checkExceptions("Bad input path key", DEFAULT_ARGS);
+            ProjectTest.checkExceptions("Bad input path key", ProjectTest.DEFAULT_ARGS);
             
         }
 
@@ -65,12 +47,12 @@ public class IndexTest {
         	String configFile = "test/configurations/badinputpathvalue.json";
     		
         	try {
-        		copyConfigFile(configFile, DEFAULT_CONFIG_DESTINATION);
+        		ProjectTest.copyConfigFile(configFile, ProjectTest.DEFAULT_CONFIG_DESTINATION);
         	} catch(IOException ioe) {
         		fail("Failed to copy configuration to correct location.");
         	}        
         	
-            ProjectTest.checkExceptions("Bad input path value", DEFAULT_ARGS);
+            ProjectTest.checkExceptions("Bad input path value", ProjectTest.DEFAULT_ARGS);
         }
         
     }
@@ -79,7 +61,7 @@ public class IndexTest {
     	
     	
     	private void fullTest(String test, boolean digitDelimiterValue) {
-    		fullTest(test, digitDelimiterValue, DEFAULT_CONFIG_DESTINATION, "Index " + test + " digitDelimiter " + digitDelimiterValue);
+    		fullTest(test, digitDelimiterValue, ProjectTest.DEFAULT_CONFIG_DESTINATION, "Index " + test + " digitDelimiter " + digitDelimiterValue);
     	}    	
     	
     	private void fullTest(String test, boolean digitDelimiterValue, String destination, 
@@ -90,14 +72,14 @@ public class IndexTest {
     		String configFile = "test/configurations/" + test + "-digitdelimiter" + digitDelimiterValue + ".json";
     		
         	try {
-        		copyConfigFile(configFile, destination);
+        		ProjectTest.copyConfigFile(configFile, destination);
         	} catch(IOException ioe) {
         		//System.out.println(ioe.getMessage());
         		ioe.printStackTrace();
         		fail("Failed to copy configuration to correct location.");        		
         	}        
 
-            ProjectTest.checkProjectOutput(output, DEFAULT_ARGS, FileSystems.getDefault().getPath("output/result.txt"), 
+            ProjectTest.checkProjectOutput(output, ProjectTest.DEFAULT_ARGS, FileSystems.getDefault().getPath("output/result.txt"), 
             		FileSystems.getDefault().getPath(expected));
 
     	}
@@ -111,7 +93,6 @@ public class IndexTest {
         public void testIndexSimpleDigitDelimiterFalse() {
         	fullTest("simple", false);        	
         }
-
 
         @Test(timeout = TIMEOUT)
         public void testIndexRFCsDigitDelimiterTrue() {
@@ -144,55 +125,6 @@ public class IndexTest {
         }
         
         
-/*
-        @Test(timeout = TIMEOUT)
-        public void testIndexRFCs() {
-            String name = "index-rfcs.txt";
-
-            Path input = Paths.get(ProjectTest.INPUT_DIR, "rfcs");
-            Path output = Paths.get(ProjectTest.OUTPUT_DIR, name);
-            Path result = Paths.get(ProjectTest.RESULT_DIR, name);
-
-            String[] args = new String[] {
-                    ProjectTest.DIR_FLAG, input.toString(),
-                    ProjectTest.INDEX_FLAG, result.toString()
-            };
-
-            ProjectTest.checkProjectOutput("Index RFCs", args, result, output);
-        }
-
-        @Test(timeout = TIMEOUT)
-        public void testIndexGutenberg() {
-            String name = "index-guten.txt";
-
-            Path input = Paths.get(ProjectTest.INPUT_DIR, "gutenberg");
-            Path output = Paths.get(ProjectTest.OUTPUT_DIR, name);
-            Path result = Paths.get(ProjectTest.RESULT_DIR, name);
-
-            String[] args = new String[] {
-                    ProjectTest.DIR_FLAG, input.toString(),
-                    ProjectTest.INDEX_FLAG, result.toString()
-            };
-
-            ProjectTest.checkProjectOutput("Index Gutenberg", args, result, output);
-        }
-
-        @Test(timeout = TIMEOUT)
-        public void testIndexAll() {
-            String name = "index-all.txt";
-
-            Path input = Paths.get(ProjectTest.INPUT_DIR);
-            Path output = Paths.get(ProjectTest.OUTPUT_DIR, name);
-            Path result = Paths.get(ProjectTest.RESULT_DIR, name);
-
-            String[] args = new String[] {
-                    ProjectTest.DIR_FLAG, input.toString(),
-                    ProjectTest.INDEX_FLAG, result.toString()
-            };
-
-            ProjectTest.checkProjectOutput("Index All", args, result, output);
-        }
-   */
     }
     
    

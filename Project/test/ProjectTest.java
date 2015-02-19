@@ -26,7 +26,27 @@ public class ProjectTest {
     public static final String QUERY_DIR  = "queries";
     public static final String OUTPUT_DIR = "output";
     public static final String RESULT_DIR = "results";
+    public static final String SEARCH_DEFAULT = RESULT_DIR + File.separator + "default.txt";
+    	
+    
+    public static final String[] DEFAULT_ARGS = {};
+    public static final String DEFAULT_CONFIG_DESTINATION = "config.json";
+    
+    /**
+     * Helper method to copy a configuration file to the appropriate location.
+     * @param configFile
+     * @param destination
+     */
+    public static void copyConfigFile(String configFile, String destination) throws IOException {
+		
+    	Path configPath = Paths.get(configFile);
+    	Path destinationPath = Paths.get(destination);
 
+    	Files.copy(configPath, destinationPath, REPLACE_EXISTING);
+
+    }
+
+    
     /**
      * Checks whether environment setup is correct, with a input and output
      * directory located within the base directory.
