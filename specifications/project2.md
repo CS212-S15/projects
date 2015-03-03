@@ -1,8 +1,6 @@
 Project 2 - TF-IDF Scoring and Search
 ==========================
 
-*tentative and subject to change*
-
 For this project, you will modify your InvertedIndex to include a`search` method that will take as input a (possibly multi-word) query and will return a list of documents matching the query. The list will be sorted according to the [Term Frequency-Inverse Document Frequency](http://www.tfidf.com/) score calculated by your program.
 
 ##Requirements##
@@ -71,6 +69,8 @@ The score for a multi-word query should be the sum of the scores for each word, 
  2. Implement methods `calculateTFIDF` in both `InvertedIndex` and `DocumentLocationMap`. 
  3. Implement a custom data structure to maintain the score results for a word. My `InvertedIndex` `calculatedTFIDF` method returns a `DocumentResultList`, which is a query and a sorted list of `DocumentResult` objects. Each `DocumentResult` contains a document (String) and a score.
  4. Implement a separate class to read in the queries from the file and execute them on the `InvertedIndex`.
+ 5. Keep in mind that once you have inserted a Comparable object into a `TreeSet` you *should not* change the value(s) that compareTo uses for sorting. The `TreeSet` will **not** be re-sorted.
+ 6. To avoid an off-by-one error, an empty document (with no words in it) *should not* be considered a document in the corpus for the purpose of calculating the TF-IDF score.
  
 ##Submission##
 Additional test cases will be provided for Project 2 and you must pass all of the original Project 1 test cases along with the Project 2 test cases in order to qualify for code review.
