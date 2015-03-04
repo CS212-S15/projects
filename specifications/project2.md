@@ -8,7 +8,7 @@ For this project, you will modify your InvertedIndex to include a`search` method
 **Configuration** - Your `config.json` file may contain two additional parameters:
 
 1. `searchPath` - If specified, the value associated with this key specifies a relative path to a file containing queries, one per line. Each query may contain one *or more* words. Your program will execute each query by invoking the `search` method of the `InvertedIndex` once the entire index has been built.
-2. `searchOutputPath` - If specified, the results of each query will be written to the file specified by the value associated with this key. If not specified, output should be written to `output/default.txt`.
+2. `searchOutputPath` - If specified, the results of each query will be written to the file specified by the value associated with this key. If not specified, output should be written to `results/default.txt`.
 
 **Results Output** - Your output must be formatted as the example below. In this example, there were three 	queries. The query `aa` produced no results, the query `t` produced one result, and the query `elephant antelope` produced two results.
 
