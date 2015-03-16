@@ -1,0 +1,9 @@
+{
+	"inputPath": "http://nytimes.com",
+	"outputPath": "output/result.txt",
+	"digitDelimiter": false,
+	"searchPath": "queries/complex.txt",
+	"searchOutputPath": "output/searchresults.txt",
+	"numberThreads": 5
+
+}

@@ -1,0 +1,9 @@
+{
+	"inputPath": "http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm",
+	"outputPath": "output/result.txt",
+	"digitDelimiter": false,
+	"searchPath": "queries/complex.txt",
+	"searchOutputPath": "output/searchresults.txt",
+	"numberThreads": 5
+
+}
