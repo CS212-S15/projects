@@ -1,5 +1,5 @@
 {
-	"inputPath": "input/",,
+	"inputPath": "input/",
 	"outputPath": "output/result.txt",
 	"digitDelimiter": true,
 	"searchPath": "queries/complex.txt",
