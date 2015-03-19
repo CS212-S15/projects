@@ -1,0 +1,9 @@
+{
+	"inputPath": "input/",,
+	"outputPath": "output/result.txt",
+	"digitDelimiter": true,
+	"searchPath": "queries/complex.txt",
+	"searchOutputPath": "output/searchresults.txt",
+	"numberThreads": 1
+
+}

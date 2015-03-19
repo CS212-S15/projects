@@ -65,7 +65,7 @@ public class ProjectTest {
         }
 
         return Files.isReadable(input)  && Files.isReadable(query) &&
-               Files.isReadable(output) && Files.isWritable(result);
+               Files.isReadable(output) && Files.isReadable(result);
     }
 
     /**
