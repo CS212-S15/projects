@@ -10,9 +10,9 @@ http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/gutenberg.html
 
 ha he hi ho hu
@@ -25,12 +25,12 @@ http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 
 ia ie ii io iu
-http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 
 xa xe xi xo xu
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
@@ -43,8 +43,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 
 a b c d e
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
@@ -60,8 +60,8 @@ p q r
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 2 3
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
@@ -91,8 +91,8 @@ p
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 on oo op oq or os ot ou ov ow ox oy oz
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
@@ -120,8 +120,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 
 6 7
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
@@ -211,8 +211,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 
 0 1 2 3 4 5 6 7 8 9
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
@@ -230,8 +230,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 
 0 1 2 3 4
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
@@ -262,10 +262,10 @@ o
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 
 dn do dp dq dr ds dt du dv dw dx dy dz
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
@@ -297,7 +297,6 @@ http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 
 bn bo bp bq br bs bt bu bv bw bx by bz
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 
@@ -325,15 +324,15 @@ http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 an ao ap aq ar as at au av aw ax ay az
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
@@ -352,8 +351,8 @@ ga ge gi go gu
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
@@ -399,8 +398,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 0 1
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
@@ -447,8 +446,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/gutenberg.html
 
@@ -456,8 +455,8 @@ a b c d e f g
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/gutenberg.html
@@ -495,8 +494,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 1
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
@@ -600,10 +599,10 @@ http://www.cs.usfca.edu/~cs212/gutenberg/gutenberg.html
 o p
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 kn ko kp kq kr ks kt ku kv kw kx ky kz
@@ -670,8 +669,9 @@ http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 
 0
-http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 
 v
@@ -686,9 +686,9 @@ gn go gp gq gr gs gt gu gv gw gx gy gz
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 sa se si so su
@@ -719,9 +719,9 @@ http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/gutenberg.html
 
 g h
@@ -753,7 +753,6 @@ zn zo zp zq zr zs zt zu zv zw zx zy zz
 
 rn ro rp rq rr rs rt ru rv rw rx ry rz
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 
 ln lo lp lq lr ls lt lu lv lw lx ly lz
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
@@ -775,8 +774,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 wa we wi wo wu
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
@@ -804,8 +803,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/gutenberg.html
 
@@ -840,9 +839,7 @@ http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 
 aa ae ai ao au
-http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 
 la le li lo lu
@@ -913,10 +910,10 @@ http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 va vb vc vd ve vf vg vh vi vj vk vl vm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 
 oa ob oc od oe of og oh oi oj ok ol om
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
@@ -943,8 +940,8 @@ a b c d e f
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/gutenberg.html
@@ -952,10 +949,10 @@ http://www.cs.usfca.edu/~cs212/gutenberg/gutenberg.html
 va ve vi vo vu
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 
 fa fe fi fo fu
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
@@ -994,8 +991,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 7
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
@@ -1042,9 +1039,9 @@ http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 n
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 
 fn fo fp fq fr fs ft fu fv fw fx fy fz
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
@@ -1109,17 +1106,17 @@ http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/gutenberg.html
 
 ia ib ic id ie if ig ih ii ij ik il im
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 
@@ -1144,8 +1141,8 @@ aa ab ac ad ae af ag ah ai aj ak al am
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 
@@ -1153,9 +1150,9 @@ m n o p q r
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 v w x
@@ -1163,18 +1160,18 @@ http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 
 la lb lc ld le lf lg lh li lj lk ll lm
-http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 
 m
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
@@ -1235,21 +1232,21 @@ http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 k l m n o
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 fa fb fc fd fe ff fg fh fi fj fk fl fm
-http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 
 90 19 29 39 49 59
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
@@ -1259,9 +1256,9 @@ http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
 
 q
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
@@ -1271,8 +1268,8 @@ http://www.cs.usfca.edu/~cs212/gutenberg/1322.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/4300.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/11.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/98.htm
-http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1661.htm
+http://www.cs.usfca.edu/~cs212/gutenberg/2701.htm
 http://www.cs.usfca.edu/~cs212/gutenberg/1342.htm
 
 4 5
