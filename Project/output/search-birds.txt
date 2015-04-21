@@ -11,6 +11,55 @@ xa xe xi xo xu
 aa ee ii oo uu
 
 a b c d e
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 p q r
@@ -22,6 +71,55 @@ za zb zc zd ze zf zg zh zi zj zk zl zm
 z
 
 a b
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 p
@@ -89,6 +187,55 @@ bn bo bp bq br bs bt bu bv bw bx by bz
 50 15 25 35 45 55
 
 a b c
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 c d
@@ -96,6 +243,55 @@ c d
 an ao ap aq ar as at au av aw ax ay az
 
 a b c d e f g h i
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 ga ge gi go gu
@@ -125,6 +321,55 @@ cn co cp cq cr cs ct cu cv cw cx cy cz
 o p q r s t u
 
 a b c d e f g
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 e
@@ -162,6 +407,55 @@ ha hb hc hd he hf hg hh hi hj hk hl hm
 i j
 
 a b c d e f g h
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 o p
@@ -175,6 +469,55 @@ ba bb bc bd be bf bg bh bi bj bk bl bm
 k l m n o p q r s t
 
 a b c d e f g h i j
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 ca ce ci co cu
@@ -222,6 +565,55 @@ ua ue ui uo uu
 mn mo mp mq mr ms mt mu mv mw mx my mz
 
 a b c d
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 pa pe pi po pu
@@ -255,6 +647,55 @@ ya yb yc yd ye yf yg yh yi yj yk yl ym
 va vb vc vd ve vf vg vh vi vj vk vl vm
 
 oa ob oc od oe of og oh oi oj ok ol om
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 ka ke ki ko ku
@@ -262,6 +703,55 @@ ka ke ki ko ku
 80 18 28 38 48 58
 
 a b c d e f
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 va ve vi vo vu
@@ -325,6 +815,55 @@ m
 ja jb jc jd je jf jg jh ji jj jk jl jm
 
 in io ip iq ir is it iu iv iw ix iy iz
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 wn wo wp wq wr ws wt wu wv ww wx wy wz
@@ -352,6 +891,55 @@ m n o p
 4 5
 
 a
+http://www.cs.usfca.edu/~cs212/birds/wren.html
+http://www.cs.usfca.edu/~cs212/birds/woodpecker.html
+http://www.cs.usfca.edu/~cs212/birds/warbler.html
+http://www.cs.usfca.edu/~cs212/birds/vulture.html
+http://www.cs.usfca.edu/~cs212/birds/turkey.html
+http://www.cs.usfca.edu/~cs212/birds/tern.html
+http://www.cs.usfca.edu/~cs212/birds/swan.html
+http://www.cs.usfca.edu/~cs212/birds/swallow.html
+http://www.cs.usfca.edu/~cs212/birds/stork.html
+http://www.cs.usfca.edu/~cs212/birds/starling.html
+http://www.cs.usfca.edu/~cs212/birds/sparrow.html
+http://www.cs.usfca.edu/~cs212/birds/sandpiper.html
+http://www.cs.usfca.edu/~cs212/birds/robin.html
+http://www.cs.usfca.edu/~cs212/birds/roadrunner.html
+http://www.cs.usfca.edu/~cs212/birds/raven.html
+http://www.cs.usfca.edu/~cs212/birds/quail.html
+http://www.cs.usfca.edu/~cs212/birds/puffin.html
+http://www.cs.usfca.edu/~cs212/birds/pigeon.html
+http://www.cs.usfca.edu/~cs212/birds/pheasant.html
+http://www.cs.usfca.edu/~cs212/birds/pelican.html
+http://www.cs.usfca.edu/~cs212/birds/owl.html
+http://www.cs.usfca.edu/~cs212/birds/osprey.html
+http://www.cs.usfca.edu/~cs212/birds/nighthawk.html
+http://www.cs.usfca.edu/~cs212/birds/mockingbird.html
+http://www.cs.usfca.edu/~cs212/birds/meadowlark.html
+http://www.cs.usfca.edu/~cs212/birds/mallard.html
+http://www.cs.usfca.edu/~cs212/birds/magpie.html
+http://www.cs.usfca.edu/~cs212/birds/loon.html
+http://www.cs.usfca.edu/~cs212/birds/kingfisher.html
+http://www.cs.usfca.edu/~cs212/birds/ibis.html
+http://www.cs.usfca.edu/~cs212/birds/hummingbird.html
+http://www.cs.usfca.edu/~cs212/birds/heron.html
+http://www.cs.usfca.edu/~cs212/birds/hawk.html
+http://www.cs.usfca.edu/~cs212/birds/gull.html
+http://www.cs.usfca.edu/~cs212/birds/goose.html
+http://www.cs.usfca.edu/~cs212/birds/finch.html
+http://www.cs.usfca.edu/~cs212/birds/falcon.html
+http://www.cs.usfca.edu/~cs212/birds/egret.html
+http://www.cs.usfca.edu/~cs212/birds/eagle.html
+http://www.cs.usfca.edu/~cs212/birds/duck.html
+http://www.cs.usfca.edu/~cs212/birds/dove.html
+http://www.cs.usfca.edu/~cs212/birds/cuckoo.html
+http://www.cs.usfca.edu/~cs212/birds/crow.html
+http://www.cs.usfca.edu/~cs212/birds/crane.html
+http://www.cs.usfca.edu/~cs212/birds/chickadee.html
+http://www.cs.usfca.edu/~cs212/birds/cardinal.html
+http://www.cs.usfca.edu/~cs212/birds/bluebird.html
+http://www.cs.usfca.edu/~cs212/birds/blackbird.html
+http://www.cs.usfca.edu/~cs212/birds/birds.html
 http://www.cs.usfca.edu/~cs212/birds/albatross.html
 
 i j k l m n o p
